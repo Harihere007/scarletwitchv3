@@ -89,7 +89,12 @@ Just for a rasam😂"""
 1. Make me the admin of your channel if it's private.
 2. Make sure that your channel does not contains camrips, porn and fake files.
 3. Forward the last message to me with quotes.
- I'll add all the files in that channel to my db."""
+ I'll add all the files in that channel to my db.
+
+<b>📚 Commands & Usage:</b>
+➪ /plink :- 𝖱𝖾𝗉𝗅𝗒 𝗍𝗈 𝖺𝗇𝗒 𝗆𝖾𝖽𝗂𝖺 𝗍𝗈 𝗀𝖾𝗍 𝗅𝗂𝗇𝗄.
+➪ /pbatch :- 𝖴𝗌𝖾 𝗒𝗈𝗎𝗋 𝗆𝖺𝖽𝗂𝖺 𝗅𝗂𝗇𝗄 𝗐𝗂𝗍𝗁 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽.
+➪ /batch :- To create link for multiple post."""
 
     CONNECTION_TXT = """Help: <b>Connections</b>
 
