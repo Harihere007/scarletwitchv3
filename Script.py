@@ -32,7 +32,7 @@ Note:- Give a user details
 • /alive - check me alive or dead🤧
 Just for a rasam😂"""
 
-    FILESTORE_TXT """Help: <b>File store</b>
+    FILESTORE_TXT ="""Help: <b>File store</b>
 
 <b>filestore :</b>
 
