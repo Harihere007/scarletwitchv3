@@ -114,18 +114,6 @@ Get information about something!
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
-    GTRANS_TXT = """Help: <b>Google Translator</b>
-
-Translate texts to a specific language!
-
-<b>Commands and Usage:</b>
-• /tr [language code][reply] - translate replied message to specific language.
-
-<b>NOTE:</b>
-• IMDb should have admin privillage.
-• These commands works on both pm and group.
-• IMDb can translate texts to 200+ languages."""
-
     SEARCH_TXT = """Help: <b>IMDb</b>
 
 Search many things without leaving telegram!
