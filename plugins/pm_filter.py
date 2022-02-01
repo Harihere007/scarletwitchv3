@@ -415,20 +415,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton(' 𝐚𝐝𝐦𝐢𝐧 🧚‍♂️', callback_data='admin')
+            InlineKeyboardButton(' 𝙰𝚍𝚖𝚒𝚗 🧚‍♂️', callback_data='admin'),
+            InlineKeyboardButton(' 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 🖇', callback_data='coct'),
+            InlineKeyboardButton(' 𝙵𝚒𝚕𝚝𝚎𝚛𝚜 🪄', callback_data='auto_manual')
             ],[
-            InlineKeyboardButton('🗳️ 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 🖇', callback_data='coct'),
-            InlineKeyboardButton('👻 𝐟𝐢𝐥𝐭𝐞𝐫𝐬 🪄', callback_data='auto_manual'),
-            InlineKeyboardButton('📖 𝐠𝐭𝐫𝐚𝐧𝐬 💾', callback_data='gtrans')
+            InlineKeyboardButton(' 𝙸𝚗𝚏𝚘 📟', callback_data='info'),
+            InlineKeyboardButton(' 𝚁𝚎𝚜𝚝𝚛𝚒𝚌𝚝 😈', callback_data='restric'),
+            InlineKeyboardButton(' 𝚂𝚎𝚊𝚛𝚌𝚑 🗂', callback_data='search')
             ],[
-            InlineKeyboardButton('📄 𝐢𝐧𝐟𝐨 📟', callback_data='info')
-            ],[
-            InlineKeyboardButton('🔇 𝐫𝐞𝐬𝐭𝐫𝐢𝐜𝐭 😈', callback_data='restric'),
-            InlineKeyboardButton('🔍 𝐬𝐞𝐚𝐫𝐜𝐡 🗂', callback_data='search')
-            ],[
-            InlineKeyboardButton('🤔 𝐰𝐡𝐨𝐢𝐬 ✍🏻', callback_data='whois')
-            ],[
-            InlineKeyboardButton('📎 𝐩𝐢𝐧 🖋', callback_data='pin')
+            InlineKeyboardButton(' 𝚆𝚑𝚘𝚒𝚜 ✍🏻', callback_data='whois'),
+            InlineKeyboardButton(' 𝙿𝚒𝚗 🖋', callback_data='pin')
             ],[
             InlineKeyboardButton('« Back 🙊', callback_data='start')
         ]]
@@ -441,12 +437,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('status', callback_data='stats'),
-            InlineKeyboardButton('source', callback_data='source')
+            InlineKeyboardButton('status 🔮', callback_data='stats'),
+            InlineKeyboardButton('source 🧬', callback_data='source')
             ],[
-            InlineKeyboardButton('search movie', switch_inline_query_current_chat='')
+            InlineKeyboardButton('search movie 🎭', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('help & commands', callback_data='help')
+            InlineKeyboardButton('help & commands ⚙', callback_data='help')
             ],[
             InlineKeyboardButton('« Back', callback_data='start'),
             InlineKeyboardButton('Close ✗', callback_data='close_data')
