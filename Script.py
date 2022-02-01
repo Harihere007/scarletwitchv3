@@ -31,33 +31,7 @@ Note:- Give a user details
     ALIVE_TXT ="""<b>ALIVE MODULE</b>
 • /alive - check me alive or dead🤧
 Just for a rasam😂"""
-    CORONA_TXT ="""<b>Here is the help for the coron information module</b>
-➡️ /covid <code>(countryname)</code> <b>you can find a corona information of every country</b>
-
-➡️ <b>example</b> : - /covid India"""
-    STICKER_TXT ="""<b>COMMAND /stickerid\n𝖨𝖿 𝖸𝗈𝗎 𝖭𝖾𝖾𝖽 𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆 𝖲𝗍𝗂𝖼𝗄𝖾𝗋 𝖨𝖽 𝖢𝗅𝗂𝖼𝗄 /stickerid 𝖳𝗈 𝖦𝖾𝗍 𝖲𝗍𝗂𝖼𝗄𝖾𝗋 𝖨𝖽 (𝖱𝖾𝗉𝗅𝗒 𝖶𝗂𝗍𝗁 𝖲𝗍𝗂𝖼𝗄𝖾𝗋)</b>"""
-    SONG_TXT ="""<b>SONG MODULE</b>
-Song Download
-Song Download Module, For Those Who Love Music
-
-🎈 Command
-
-• /song or /mp3 (songname) - download song from yt servers.
-• /video or /mp4 (songname) - download video from yt servers
-
-Usage
-- working pm and groups"""
-    JSON_TXT ="""<b>JSON MODULE</b>
-JSON:
-Bot returns json for all replied messages with /json
-
-Features:
-Message Editting JSON
-Pm Support
-Group Support
-
-Note:
-Everyone can use this command , if spaming happens bot will automatically ban you from the group"""
+   
     PIN_TXT ="""<b>PIN MODULE</b>
 
 <b>Pin :</b>
@@ -69,15 +43,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 ◉ /Pin :- Pin The Message You Replied To Message To Send A Notification To Group Members
 
 ◉ /Unpin :- Unpin The Current Pinned Message. If Used As A Reply, Unpins The Replied To Message"""
-    FUN_TXT ="""<b>FUN MODULE</b> 
     
-<b>🎲 NOTHING MUCH JUST SOME FUN THINGS</b>
-t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍: 
-𝟣. /dice - Roll The Dice 
-𝟤. /Throw 𝗈𝗋 /Dart - 𝖳𝗈 𝖬𝖺𝗄𝖾 Drat 
-3. /Runs - Jokes 
-4. /Goal or /Shoot - To Make A Goal Or Shoot
-5. /luck or /cownd - Spin the Lucky"""
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Dingdi will respond whenever a keyword is found the message
@@ -134,31 +100,6 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 
 <b>Select a filters type Below:</b>"""
 
-    PASTE_TXT = """Help: <b>Paste</b>
-
-Paste some texts or documents on a website!
-
-<b>Commands and Usage:</b>
-• /paste [text] - paste the given text on Pasty
-• /paste [reply] - paste the replied text on Pasty
-
-<b>NOTE:</b>
-• IMDb should have admin privillage.
-• These commands works on both pm and group.
-• These commands can be used by any group member."""
-
-    TGRAPH_TXT = """Help: <b>TGraph & Paste</b>
-
-Do as you wish with telegra.ph module!
-
-<b>Commands and Usage:</b>
-• /tgmedia or /tgraph - upload supported media (within 5MB) to telegraph.
-
-<b>NOTE:</b>
-• IMDb should have admin privillage.
-• These commands works on both pm and group.
-• These commands can be used by any group member."""
-
     INFO_TXT = """Help: <b>Information</b>
 
 Get information about something!
@@ -197,18 +138,6 @@ Search many things without leaving telegram!
 • IMDb should have admin privillage.
 • More search tools can be found on inline.
 • Those commands works on both pm and group."""
-
-    PURGE_TXT = """Help: <b>Purge</b>
-
-Need to delete lots of messages? That's what purges are for!
-
-<b>Commands and Usage:</b>
-• /purge - delete all messages from the replied to message, to the current message.
-
-<b>NOTE:</b>
-• IMDb should have admin privillage.
-• These commands works on group.
-• These commands can be used by Only admin."""
 
     RESTRIC_TXT = """Help: <b>Restrictions</b>
 
@@ -272,16 +201,6 @@ Added By - {}
 ID - <code>{}</code>
 Name - {}"""
 
-    ZOMBIES_TXT = """Help: <b>Zombies</b>
-
-<b>Kick incative members from group. Add me as admin with ban users permission in group.</b>
-
-<b>Commands and Usage:</b>
-• /inkick - command with required arguments and i will kick members from group.
-• /instatus - to check current status of chat member from group.
-• /inkick within_month long_time_ago - to kick users who are offline for more than 6-7 days.
-• /inkick long_time_ago - to kick members who are offline for more than a month and Deleted Accounts.
-• /dkick - to kick deleted accounts."""
 
     CREATOR_REQUIRED = """❗You have to be the group creator to do that."""
       
