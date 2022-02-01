@@ -5,13 +5,13 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
     ABOUT_TXT = """
-𝐓𝐡𝐢𝐬 𝐢𝐬 𝐋𝐮𝐜𝐢𝐟𝐞𝐫 𝐯𝟐'𝐬 𝐀𝐛𝐨𝐮𝐭 𝐦𝐬𝐠
+𝐓𝐡𝐢𝐬 𝐢𝐬 ᔑᑕᗩᖇᏞᗴᎢ ᗯᏆᎢᑕᕼ 🦹‍♀'𝐬 𝐀𝐛𝐨𝐮𝐭 𝐦𝐬𝐠
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="http://t.me/lucifer_v2_Bot"> 𝕃𝕦𝕔𝕚𝕗𝕖𝕣 𝕧𝟚 </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎1 - <a href="http://t.me/akhil_tg"> TG_Editz </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎2 - <a href="http://t.me/akhil_tg"> Gamer </a>
+║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="http://t.me/malluchickv3_bot"> ᔑᑕᗩᖇᏞᗴᎢ ᗯᏆᎢᑕᕼ 🦹‍♀ </a>
+║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎1 - <a href="http://t.me/Tony_Stark06"> 𝚃𝙾𝙽𝚈 </a>
+║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎2 - <a href="http://t.me/Harihere007"> 𝙷𝚊𝚛𝚒𝚑𝚎𝚛𝚎 </a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -20,10 +20,10 @@ class script(object):
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="http://t.me/lucifer_v2_Bot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="http://t.me/malluchickv3_bot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="http://t.me/lucifer_v2_Bot"> ♞☯  Ⓣεάｍ 𝔩𝔲cⓘ𝐟Ẹя 𝕧➁  ★♣ </a>"""
+<a href="http://t.me/malluchickv3_bot"> ♞☯  ᔑᑕᗩᖇᏞᗴᎢ ᗯᏆᎢᑕᕼ 🦹‍♀  ★♣ </a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
