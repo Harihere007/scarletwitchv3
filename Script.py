@@ -31,6 +31,17 @@ Note:- Give a user details
     ALIVE_TXT ="""<b>ALIVE MODULE</b>
 • /alive - check me alive or dead🤧
 Just for a rasam😂"""
+
+    FILESTORE_TXT """Help: <b>File store</b>
+
+<b>filestore :</b>
+
+<b>𝚆𝚒𝚝𝚑 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚍𝚜 𝚒 𝚌𝚊𝚗 𝚜𝚝𝚘𝚛𝚎 𝚏𝚒𝚕𝚎𝚜 𝚊𝚗𝚍 𝚐𝚒𝚟𝚎 𝚢𝚘𝚞 𝚊 𝚜𝚑𝚊𝚛𝚎𝚊𝚋𝚕𝚎 𝚕𝚒𝚗𝚔 𝚠𝚒𝚝𝚑 𝚝𝚑𝚒𝚜 𝚕𝚒𝚗𝚔 𝚒 𝚌𝚊𝚗 𝚜𝚑𝚊𝚛𝚎 𝚝𝚑𝚊𝚝 𝚏𝚒𝚕𝚎𝚜 𝚢𝚘𝚞 𝚐𝚒𝚟𝚎 𝚖𝚎 𝚏𝚛𝚘𝚖 𝚊𝚗𝚢 𝚌𝚑𝚊𝚗𝚗𝚎𝚕 𝚠𝚒𝚝𝚑𝚘𝚞𝚝 𝚊𝚍𝚍𝚒𝚗𝚐 𝚖𝚎</b>
+
+<b>📚 Commands & Usage:</b>
+➪ /plink :- 𝖱𝖾𝗉𝗅𝗒 𝗍𝗈 𝖺𝗇𝗒 𝗆𝖾𝖽𝗂𝖺 𝗍𝗈 𝗀𝖾𝗍 𝗅𝗂𝗇𝗄.
+➪ /pbatch :- 𝖴𝗌𝖾 𝗒𝗈𝗎𝗋 𝗆𝖺𝖽𝗂𝖺 𝗅𝗂𝗇𝗄 𝗐𝗂𝗍𝗁 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽.
+➪ /batch :- To create link for multiple post."""
    
     PIN_TXT ="""<b>PIN MODULE</b>
 
