@@ -549,6 +549,16 @@ parse_mode='html'
             reply_markup=reply_markup,
             parse_mode='html'
         )
+    elif query.data == "filestore":
+        buttons = [[
+            InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='filestore')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.FILESTORE_TXT,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
     elif query.data == "button":
         buttons = [[
             InlineKeyboardButton('« Back', callback_data='manualfilter')
