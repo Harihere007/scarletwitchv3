@@ -425,7 +425,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton(' 𝚆𝚑𝚘𝚒𝚜 ✍🏻', callback_data='whois'),
             InlineKeyboardButton(' 𝙿𝚒𝚗 🖋', callback_data='pin'),
-            InlineKeyboardButton(' 𝙵𝚒𝚕𝚎 𝚜𝚝𝚘𝚛𝚎 📂', callback_data='filestore')
+            InlineKeyboardButton("𝖥𝗂𝗅𝖾 𝖲𝗍𝗈𝗋𝖾 🗂", callback_data='newdata')
             ],[
             InlineKeyboardButton('« Back 🙊', callback_data='start')
         ]]
@@ -549,16 +549,16 @@ parse_mode='html'
             reply_markup=reply_markup,
             parse_mode='html'
         )
-    elif query.data == "filestore":
+    elif query.data == "newdata":
         buttons = [[
-            InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='filestore')
+            InlineKeyboardButton('✶ 𝖡𝖺𝖼𝗄', callback_data='help')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text=script.FILESTORE_TXT,
+            text=script.FILE_TXT,
             reply_markup=reply_markup,
             parse_mode='html'
-        )
+        )   
     elif query.data == "button":
         buttons = [[
             InlineKeyboardButton('« Back', callback_data='manualfilter')
