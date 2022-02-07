@@ -18,7 +18,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝚄𝙿𝙳𝙰𝚃𝙴𝚂 💥', url='https://t.me/cinemakottakatwo')
+                InlineKeyboardButton('𝚄𝙿𝙳𝙰𝚃𝙴𝚂 💥', url='https://t.me/Newcinemazz')
             ],
             [
                 InlineKeyboardButton('𝙷𝙴𝙻𝙿 ⚙', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -81,7 +81,7 @@ async def start(client, message):
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/dqautofl_bot?startgroup=true')
             ],[
             InlineKeyboardButton('𝚂𝚎𝚊𝚛𝚌𝚑 🔎', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('𝙶𝚛𝚘𝚞𝚙 📽', url='https://t.me/Newcinemazz')
+            InlineKeyboardButton('𝙶𝚛𝚘𝚞𝚙 📽', url='https://t.me/cinemakottakatwo')
             ],[
             InlineKeyboardButton('𝙷𝚎𝚕𝚙 ⚙', callback_data='help'),
             InlineKeyboardButton('𝙰𝚋𝚘𝚞𝚝 💾', callback_data='about')
@@ -193,12 +193,12 @@ async def delete_all_index(bot, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="YES", callback_data="autofilter_delete"
+                        text="YES 🦋", callback_data="autofilter_delete"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        text="CANCEL", callback_data="close_data"
+                        text="CANCEL 🎭", callback_data="close_data"
                     )
                 ],
             ]
