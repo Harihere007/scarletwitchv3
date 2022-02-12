@@ -37,7 +37,7 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/dqautofl_bot?startgroup=true')
+            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/Autofilterbot6_bot?startgroup=true')
             ],[
             InlineKeyboardButton('𝚂𝚎𝚊𝚛𝚌𝚑 🔎', switch_inline_query_current_chat=''),
             InlineKeyboardButton('𝙶𝚛𝚘𝚞𝚙 📽', url='https://t.me/cinemakottakatwo')
@@ -78,7 +78,7 @@ async def start(client, message):
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/dqautofl_bot?startgroup=true')
+            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/Autofilterbot6_bot?startgroup=true')
             ],[
             InlineKeyboardButton('𝚂𝚎𝚊𝚛𝚌𝚑 🔎', switch_inline_query_current_chat=''),
             InlineKeyboardButton('𝙶𝚛𝚘𝚞𝚙 📽', url='https://t.me/cinemakottakatwo')
