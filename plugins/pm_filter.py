@@ -398,7 +398,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/dqautofl_bot?startgroup=true')
+            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/Autofilterbot6_bot?startgroup=true')
             ],[
             InlineKeyboardButton('sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
             InlineKeyboardButton('𝙶𝚁𝙾𝚄𝙿 📽', url='https://t.me/Newcinemazz')
